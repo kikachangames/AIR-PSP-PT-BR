@@ -7,5 +7,5 @@ Tradução pt-br de AIR - Versão PSP
 |            170                |
 |            190                |
 |            200                |
-|            203                |
+|       203 (Arco AIR)          |
 |            210                |
