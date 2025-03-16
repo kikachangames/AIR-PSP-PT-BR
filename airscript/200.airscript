@@ -390,7 +390,7 @@ ShowDialog(0x03,"Yukito:「Droga, tô morrendo de fome!」");
 ShowDialog(0x00,"A espera tava me deixando irritado.");
 ShowDialog(0x00,"Eu deveria fazer algo pra me distrair.");
 PlayVoice(0x0000,1,6754304,21520);
-ShowDialog(0x03,"Yukito:「O doce perguntou pro doce qual é o doce mais doce que o doce..」");
+ShowDialog(0x03,"Yukito:「O doce perguntou pro doce qual é o doce mais doce que o doce...」");
 PlayVoice(0x0000,1,6776832,43584);
 ShowDialog(0x03,"Yukito:「Aahh... agora tô mais irritado ainda porque não consigo nem fazer isso direito!」");
 PlayVoice(0x0000,1,6821888,10128);
