@@ -3,7 +3,7 @@ Tradução pt-br de AIR - Versão PSP
 
 | SCRIPTS AIR PSP - Traduzidos  |
 | ----------------------------- |
-|  Progresso: 09/25 - 36%       |
+|  Progresso: 10/25 - 40%       |
 |            170                |
 |            190                |
 |            200                |
@@ -13,3 +13,4 @@ Tradução pt-br de AIR - Versão PSP
 |            230                |
 |            240                |
 |            241                |
+|            260                |
