@@ -1,10 +1,10 @@
-Extraíndo imagens de arquivos .pak
+*Extraíndo imagens de arquivos .pak
 
 Prototype Pak Tool
 https://github.com/0mateus/prototypepaktool
 
 Ferramenta criada para extrair arquivos .gim de  arquivos .pak dos jogos de PSP da Prototype.
-Testado em: AIR, Planetarian ~Chiisana Hoshi no Yume~
+Testado em: AIR, Planetarian Chiisana Hoshi no Yume
 
 Unpack:
 python3 unpack.py <input_PAK> <output_DIRECTORY>
