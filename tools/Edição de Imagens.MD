@@ -1,5 +1,4 @@
-Extraíndo imagens de arquivos .pak
-
+## Extraíndo imagens de arquivos .pak
 
 Prototype Pak Tool
 https://github.com/0mateus/prototypepaktool
@@ -14,15 +13,15 @@ Repack:
 python3 pack.py <input_DIRECTORY> <output_PAK>
 
 
-Editando imagens .gim (PSP)
+## Editando imagens .gim (PSP)
 
 Esse método foi aplicado para a edição das imagens de AIR, e foi útil principalmente para lidar com as transparências.
 Ainda não testamos, mas certamente essa técnica deve trabalhar com outros jogos de PSP da Prototype (Kanon, Planetarian, Clannad, Little Busters, etc.).
 
-Tools:
-GIM-Viewer (visualizados de arquivos gim)
-GimConv (converte gim para png e vice-versa)
-pngquant (otimiza o png para uso no psp e ativa a transparência)
+### Tools:
+- GIM-Viewer (visualizados de arquivos gim)
+- GimConv (converte gim para png e vice-versa)
+- pngquant (otimiza o png para uso no psp e ativa a transparência)
 
 Basicamente, o passo a passo é:
 
