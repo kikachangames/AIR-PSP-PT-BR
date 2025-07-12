@@ -1,4 +1,5 @@
-*Extraíndo imagens de arquivos .pak
+Extraíndo imagens de arquivos .pak
+
 
 Prototype Pak Tool
 https://github.com/0mateus/prototypepaktool
