@@ -2175,7 +2175,7 @@ ShowDialog(0x03,"Mulher:「Aqui, o pagamento pelo show.」");
 ShowDialog(0x00,"Yukito:「...」");
 ShowDialog(0x00,"Era uma moeda de 100 ienes.");
 PlayVoice(0x0000,1,30167040,19520);
-ShowDialog(0x03,"Yukito:「O que é isso, uma esmola pra uma criança?」");
+ShowDialog(0x03,"Yukito:「O que é isso, uma esmola pra criança?」");
 ChangeBackgroundImage(0x000000,29192192,0x3C00);
 PlayVoice(0x0000,0,30187520,64096);
 ShowDialog(0x03,"Mulher:「Não seja ganancioso. Este deve ser o preço tabelado para uma apresentação de rua.」");
